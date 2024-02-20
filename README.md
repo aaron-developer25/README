@@ -1,8 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/aaron-developer25/README/main/recursos/dino_rounded.gif?raw=true" href="https://github.com/aaron-developer25" alt="Aaron Developer" width="70%"/> <br>
-<img src="https://github.com/aaron-developer25/README/main/recursos/Developer.gif?raw=true" href="https://github.com/aaron-developer25" alt="Aaron Developer"  width="60%"/><br> 
-  
+<img src="https://github.com/aaron-developer25/README/blob/main/recursos/Developer.gif?raw=true" href="https://github.com/aaron-developer25" alt="Aaron Developer"  width="60%"/><br> 
+<img src="https://github.com/aaron-developer25/README/blob/main/recursos/dino_rounded.gif?raw=true" href="https://github.com/aaron-developer25" alt="Aaron Developer" width="70%"/> <br>
+
 <p><strong>Trabajando por cuenta propia.
 <br><br> Música : 🎧  </strong></p>
 
@@ -17,7 +17,6 @@
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -31,7 +30,6 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
@@ -62,25 +60,25 @@ class About extends Me {
 
 ```
 
--  <img alt="GIF" src="https://github.com/aaron-developer25/README/main/recursos/Developer.gif" width="25" /> &nbsp; Actualmente estoy aprendiendo **Flutter y WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/aaron-developer25/README/main/recursos/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta explorar **GNU/Linux**. <br>
-- <img src="https://github.com/aaron-developer25/README/main/recursos/message.gif?raw=true" width="25" />&nbsp;&nbsp; Puedes preguntarme y sugerir por mis via de comunicación. <br>
-- <img src="https://github.com/aaron-developer25/README/main/recursos/letterbox.gif?raw=true" width="25" /> &nbsp; Mi Telegram oficial: **[⚡](https://t.me/Aaron_Garcia)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/aaron-developer25/README/main/recursos/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato curioso: golpearse la cabeza contra la pared durante una hora provoca quemaduras, por si no lo sabias...**150 calories**.<br>
+-  <img alt="GIF" src="https://github.com/aaron-developer25/README/blob/main/recursos/Developer.gif" width="25" /> &nbsp; Actualmente estoy aprendiendo **Flutter y WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/aaron-developer25/README/blob/main/recursos/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta explorar **GNU/Linux**. <br>
+- <img src="https://github.com/aaron-developer25/README/blob/main/recursos/message.gif?raw=true" width="25" />&nbsp;&nbsp; Puedes preguntarme y sugerir por mis via de comunicación. <br>
+- <img src="https://github.com/aaron-developer25/README/blob/main/recursos/letterbox.gif?raw=true" width="25" /> &nbsp; Mi Telegram oficial: **[⚡](https://t.me/Aaron_Garcia)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/aaron-developer25/README/blob/main/recursos/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Dato curioso: golpearse la cabeza contra la pared durante una hora provoca quemaduras, por si no lo sabias...**150 calories**.<br>
 
 <div align="center" >
 <a  href="https://github.com/aaron-developer25">
 
-<img src="https://github.com/aaron-developer25/README/main/recursos/graficos/3-stats.svg" width="32.5%">
-<img src="https://github.com/aaron-developer25/README/main/recursos/graficos/1-repos-per-language.svg" width="32.5%">
-<img src="https://github.com/aaron-developer25/README/main/recursos/graficos/2-most-commit-language.svg" width="32.5%">
+<img src="https://github.com/aaron-developer25/README/blob/main/recursos/graficos/3-stats.svg" width="32.5%">
+<img src="https://github.com/aaron-developer25/README/blob/main/recursos/graficos/1-repos-per-language.svg" width="32.5%">
+<img src="https://github.com/aaron-developer25/README/blob/main/recursos/graficos/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
 <details>
   <summary>Ver Más</summary>
   
-<img align="center" src="https://github.com/aaron-developer25/README/main/recursos/graficos/0-profile-details.svg" >
+<img align="center" src="https://github.com/aaron-developer25/README/blob/main/recursos/graficos/0-profile-details.svg" >
 
 </details>
   
